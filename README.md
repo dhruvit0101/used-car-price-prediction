@@ -26,7 +26,7 @@ Our goal is to build a reliable price prediction model using historical data of 
 - Handled missing values
 - Data Normalization & Data Standardization
 - Converted categorical features to numeric (one-hot encoding)
-- Removed irrelevant columns (if any)
+- Removed irrelevant columns 
 - Normalized/standardized numerical features
 
 ---
