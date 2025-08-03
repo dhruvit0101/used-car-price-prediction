@@ -71,5 +71,5 @@ Our goal is to build a reliable price prediction model using historical data of 
 
 ## 📁 Folder Structure
 - data/ — contains the dataset file (e.g., auto.csv)
-- images/ — contains charts, graphs, and any project visuals
+- powerpoint/ — contains charts, graphs, and any project visuals
 - notebooks/ — contains your Jupyter notebook(s) with code and analysis
